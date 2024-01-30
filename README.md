@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Austin
-- 👀 I’m interested in improving my coding skills
-- 🌱 I’m currently learning JavaScript
+Austin Rivera
+Age: 29
+Flatiron School: Phase 2 (React)
 
 
 <!---
