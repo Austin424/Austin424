@@ -1,6 +1,6 @@
-Austin Rivera
-Age: 29
-Flatiron School: Phase 2 (React)
+-Austin Rivera
+-Age: 29
+-Flatiron School: Phase 2 (React)
 
 
 <!---
