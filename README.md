@@ -1,6 +1,6 @@
 -Austin Rivera <br>
 -Age: 29 <br>
--Flatiron School: Phase 2 (Python)
+-Flatiron School: Phase 3 (Python)
 
 
 <!---
