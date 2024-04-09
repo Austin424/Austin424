@@ -1,6 +1,6 @@
 -Austin Rivera <br>
 -Age: 29 <br>
--Flatiron School: Phase 4 (Flask)
+-Flatiron School: Capstone Project
 
 
 <!---
