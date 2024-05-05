@@ -1,6 +1,6 @@
 -Austin Rivera <br>
--Age: 29 <br>
--Flatiron School: Capstone Project
+-Age: 30 <br>
+-Flatiron School: Graduate
 
 
 <!---
